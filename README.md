@@ -18,10 +18,10 @@ This project involves working with JSON data by making a requets to an API and p
 
 ## Author
 
-👤 **Adewale kamilu A**  
-* Github: [@githubhandle](https://github.com/adewaleK)
-* Linkedin: [linkedin](https://www.linkedin.com/in/kamilu-adewale-64ab73197/)
-* Email: [Email](devkamilnaija@gmail.com)
+👤 **Bolaji-Ogidan**  
+* Github: [@githubhandle](https://github.com/bolajiscott)
+* Linkedin: [linkedin](https://www.linkedin.com/in/bolaji-ogidan-b1704377/)
+* Email: [Email](bolajiscott@yahoo.com)
 
 ## 🤝 Contributing
 
